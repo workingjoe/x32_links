@@ -1,5 +1,10 @@
 # x32_links
 
+***
+Get DOCS from here
+https://www.academia.edu/9709659/UNOFFICIAL_X32_OSC_REMOTE_PROTOCOL
+
+
 https://github.com/pmaillot/X32-Behringer
 https://sites.google.com/site/patrickmaillot/x32#h.tsnbidki7bim
 
