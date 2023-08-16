@@ -33,3 +33,18 @@ https://github.com/theisaaclloyd/pco-x32-integration
 https://github.com/TauSolutions/X32-lables
 
 https://github.com/ksipp01/XR18-Arduino-Bus-control-for-IEM
+
+***
+
+https://sourceforge.net/projects/m32x32showmanager/
+
+https://sourceforge.net/projects/sysexoscgen/
+
+https://sourceforge.net/projects/xairlivetoolbox/
+
+https://sourceforge.net/projects/x32livetoolbox/
+
+https://sourceforge.net/projects/x32sceneparser/
+
+https://sourceforge.net/projects/mx-terminal/
+
